@@ -1,6 +1,6 @@
 # financial-dataloader
 
-Input: A folder containing the historical data corresponding to various attributes
+A folder containing the historical data corresponding to various attributes
 
 e.g. let's assume the folder has open (fopen.csv), high (fhigh.csv), low (flow.csv), close (fclose.csv) historical data on futures.
 
